@@ -16,7 +16,7 @@ SmartSprite-ST2
 
 <b>使用方法</b>
 
-1.下载 zip 丢在 sublime text 2 目录  Data\Packages 下面，重启 sublime text 2
+1.下载 SmartSprite-ST2 zip 丢在 sublime text 2 目录  Data\Packages 下面，重启 sublime text 2
 
 2.sublime text 2 Tools -> Build System 下面会多出一个 SmartSprite-ST2，表示 ok
 
