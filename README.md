@@ -8,5 +8,7 @@ SmartSprite-ST2
 <b>环境</b>
 
 1.windows
+
 2.sublime text 2
+
 3.jre(SmartSprites 是 java 开发)
