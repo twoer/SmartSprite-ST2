@@ -1,0 +1,10 @@
+{
+	"cmd": [],
+	"shell": true,
+	"selector": "source.css",
+	"windows":
+    {
+        "cmd": ["${packages}/SmartSprite-ST2/SmartSprite-ST2.bat","${file_base_name}","${file_path}","${packages}"]
+    }
+
+}
