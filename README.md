@@ -26,4 +26,4 @@ SmartSprite-ST2
 
 1.请看 demo 文件夹内代码
 
-2.SmartSprite 使用请移步到 <a href="http://csssprites.org/" target="_blank" >http://csssprites.org/</a>
+2.SmartSprite 使用请移步到 <a href="http://csssprites.org/" target="_blank">http://csssprites.org/</a>
